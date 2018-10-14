@@ -1,0 +1,9 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui
+[submodule "imgui-flix01"]
+	path = imgui-flix01
+	url = https://github.com/Flix01/imgui.git
+[submodule "impl-repo/impl-qt"]
+	path = impl-repo/impl-qt
+	url = https://github.com/seanchas116/qtimgui.git
